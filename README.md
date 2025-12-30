@@ -1,4 +1,6 @@
-# online-retail-sql-analysis 
+### 📄 Project Files
+- [SQL Analysis File](online%20retail%20analysis%20sql.sql)
+
 
 📊 Sales Performance Analysis Using MySQL
 
