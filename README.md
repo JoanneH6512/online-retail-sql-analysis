@@ -41,5 +41,5 @@ customer ID
 country 
 invoice date
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 - MySQL
